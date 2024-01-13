@@ -1,4 +1,5 @@
 # ws-flame
+Web socket to serve flame data using the bun runtime. 
 
 To install dependencies:
 
@@ -13,3 +14,4 @@ bun run index.ts
 ```
 
 This project was created using `bun init` in bun v1.0.4. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+
